@@ -5,7 +5,7 @@ This is a community maintained [MapLibre GL Native](https://github.com/maplibre/
 Only Qt 5.15 is supported for now. Qt 6 support depends on upstream mapping support.
 
 Supported platforms:
-test
+test2
 - macOS
 - Linux
 - Windows (MSVC and MinGW)
